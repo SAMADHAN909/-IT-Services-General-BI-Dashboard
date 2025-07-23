@@ -57,4 +57,6 @@ SELECT PROJECT_ID, SUM(Bugs_Reported) AS Reported_Bugs
 FROM IT
 GROUP BY PROJECT_ID;
 
+📬 Contact
+🔗 Connect With Me [ SAMADHAN AHIRE ] LINKDIN :- [ https://www.linkedin.com/in/samadhan-ahire-946592364/ ] GITHUB :- [ https://github.com/SAMADHAN909 ] Email: [samadhan0325@gmail.com]
 
